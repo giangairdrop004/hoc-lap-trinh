@@ -1,0 +1,60 @@
+Tôi tìm hiểu về Docker Compose.
+Tôi hoàn tất cấu hình Compose dịch vụ multi-container.
+Tôi khắc phục lỗi network khi Compose.
+Tôi hoàn thành Dockerfile đa tầng.
+Tôi tìm hiểu về cache layer trong Docker.
+Tôi hoàn tất build ảnh lightweight.
+Tôi khắc phục lỗi build context.
+Tôi hoàn thành Push ảnh Docker lên Docker Hub.
+Tôi tìm hiểu về Docker Volumes.
+Tôi hoàn tất gắn volumes để giữ dữ liệu.
+Tôi khắc phục lỗi permission tại volumes.
+Tôi hoàn thành Docker Compose scale dịch vụ.
+Tôi tìm hiểu về Docker Compose overrides.
+Tôi hoàn tất Compose bằng profiles.
+Tôi khắc phục lỗi Compose service chưa khởi động.
+Tôi hoàn thành Git hooks (pre-commit).
+Tôi tìm hiểu về Husky.
+Tôi hoàn tất cấu hình Husky để kiểm định code.
+Tôi khắc phục lỗi Husky không kích hoạt.
+Tôi hoàn thành Git submodules.
+Tôi tìm hiểu về Git sparse checkout.
+Tôi hoàn tất shallow clone.
+Tôi khắc phục lỗi shallow fetch.
+Tôi hoàn thành Git worktree.
+Tôi tìm hiểu về Git bisect.
+Tôi hoàn tất bisect để tìm bug.
+Tôi khắc phục lỗi bad commit.
+Tôi hoàn thành Git revert.
+Tôi tìm hiểu về Git reset soft, hard, mixed.
+Tôi hoàn tất Git cherry-pick.
+Tôi khắc phục lỗi conflict khi cherry-pick.
+Tôi hoàn thành Git blame.
+Tôi tìm hiểu về Git stash.
+Tôi hoàn tất stash đa dòng.
+Tôi khắc phục lỗi stash conflict.
+Tôi hoàn thành Git apply patch.
+Tôi tìm hiểu về Git format-patch.
+Tôi hoàn tất gửi patch qua email.
+Tôi khắc phục lỗi apply patch.
+Tôi hoàn thành Git hooks custom.
+Tôi tìm hiểu về CORS.
+Tôi hoàn tất cấu hình CORS tại Nginx.
+Tôi khắc phục lỗi CORS ở backend.
+Tôi hoàn thành CSRF Protection.
+Tôi tìm hiểu về XSS.
+Tôi hoàn tất sanitizing dữ liệu.
+Tôi khắc phục lỗi injection.
+Tôi hoàn thành Content Security Policy.
+Tôi tìm hiểu về Security Headers.
+Tôi hoàn tất cấu hình HSTS.
+Tôi khắc phục lỗi HSTS.
+Tôi hoàn thành Rate Limit bằng Nginx.
+Tôi tìm hiểu về Fail2ban.
+Tôi hoàn tất cấu hình Fail2ban.
+Tôi khắc phục lỗi Fail2ban match.
+Tôi hoàn thành SELinux policy.
+Tôi tìm hiểu về AppArmor.
+Tôi hoàn tất cấu hình AppArmor.
+Tôi khắc phục lỗi AppArmor.
+Tôi hoàn thành File Permis
